@@ -10,3 +10,4 @@ router.route("/products").get(getAllProducts);
 // <<< * We have used get method to view the produts * >>>
 
 module.exports = router;
+
